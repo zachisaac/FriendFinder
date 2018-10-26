@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "FriendFinder App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachisaac/FriendFinder.git"
+  },
+  "author": "Z. Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachisaac/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/zachisaac/FriendFinder#readme"
+}
